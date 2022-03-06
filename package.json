@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tcvduc99/onboard-publish-package/issues"
   },
-  "homepage": "https://github.com/tcvduc99/onboard-publish-package#readme"
+  "homepage": "https://github.com/tcvduc99/onboard-publish-package#readme",
+  "publishConfig": {
+    "@tcvduc99:registry": "https://npm.pkg.github.com"
+  }
 }
