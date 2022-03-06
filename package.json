@@ -1,0 +1,19 @@
+{
+  "name": "onboard-publish-package",
+  "version": "1.0.0",
+  "description": "onboard-publish-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcvduc99/onboard-publish-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcvduc99/onboard-publish-package/issues"
+  },
+  "homepage": "https://github.com/tcvduc99/onboard-publish-package#readme"
+}
